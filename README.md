@@ -1,4 +1,4 @@
-# Brave Enough ✦ Tienes Madera
+# Brave Enough ✦ Tú puedes
 
 > *"You don't have to be fearless. You just have to take the next step."*
 
