@@ -4,7 +4,7 @@
 
 A pixel-art JRPG about a teenager navigating anxiety — one turn at a time.
 
-**Play it now → [davidjordan.github.io/brave-enough](https://davidjordan.github.io/brave-enough)** *(update with your actual URL)*
+**Play it now → [davidjordan.github.io/tu-puedes](https://davidjordan.github.io/tu-puedes)** *(update with your actual URL)*
 
 ---
 
